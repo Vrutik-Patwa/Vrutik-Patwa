@@ -28,7 +28,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Vrutik-Patwa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **Vrutik-Patwa/Vrutik-Patwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
