@@ -1,6 +1,20 @@
+<h1 align="center">Hi 👋, I'm Vrutik Patwa</h1>
+
+<br>
+
 # 💫 About Me:
 
-🔭 I’m currently working on a responsive portfolio website and a dynamic e-commerce platform.<br>👯 I’m looking to collaborate on open-source frontend projects and hackathons.<br>🤝 I’m looking for help with advanced JavaScript techniques and optimizing performance in React applications.<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about CSS Grid, Flexbox, and frontend testing frameworks.<br>
+🔭 I’m currently working on a responsive portfolio website and a dynamic e-commerce platform.
+
+👯 I’m looking to collaborate on open-source frontend projects and hackathons.
+
+🤝 I’m looking for help with advanced JavaScript techniques and optimizing performance in React applications.
+
+🌱 I’m currently learning ReactJS
+
+💬 Ask me about CSS Grid, Flexbox, and frontend testing frameworks.
+
+🥇 **Top 12 at Manipal's University Datathon Sigfest 2023.**
 
 ## 🌐 Socials:
 
