@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vrutik Patwa</h1>
 
-<br>
+
 
 # 💫 About Me:
 
